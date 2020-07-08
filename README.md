@@ -1,4 +1,4 @@
-# DIB Challenge
+# Beer Challenge
 The assignment was to create REST API for retrieving a few beers from https://punkapi.com/documentation/v2, storing them
  in database and exposing a REST API for a user to manage the stored beers.
  
